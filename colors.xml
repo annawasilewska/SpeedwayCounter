@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26A69A</color>
+    <color name="button">#4DB6AC</color>
+    <color name="redTeamA">#F44336</color>
+    <color name="blueTeamA">#2196F3</color>
+    <color name="whiteTeamB">#FFFFFF</color>
+    <color name="yellowTeamB">#FFEB3B</color>
+    <color name="background">#607D8B</color>
+    <color name="black">#000000</color>
+</resources>
