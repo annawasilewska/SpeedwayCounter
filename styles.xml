@@ -1,0 +1,73 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">@color/button</item>
+    </style>
+
+    <!-- Basic text style -->
+    <style name="BasicTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Total number of points text style -->
+    <style name="TotalPointsTextStyle">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:text">0</item>
+        <item name="android:textSize">65sp</item>
+    </style>
+
+    <!-- Basic & bonus number of points text style -->
+    <style name="BBPointsTextStyle">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:text">0</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+
+    <!-- Buttons Team A Red -->
+    <style name="ButtonTeamARed">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:background">@color/redTeamA</item>
+    </style>
+
+    <!-- Buttons Team A Blue -->
+    <style name="ButtonTeamABlue">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:background">@color/blueTeamA</item>
+    </style>
+
+    <!-- Buttons Team B White -->
+    <style name="ButtonTeamBWhite">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:background">@color/whiteTeamB</item>
+    </style>
+
+    <!-- Buttons Team B Yellow -->
+    <style name="ButtonTeamBYellow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:background">@color/yellowTeamB</item>
+    </style>
+</resources>

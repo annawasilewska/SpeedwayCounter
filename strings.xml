@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Speedway counter</string>
+
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+
+    <string name="basic">Basic</string>
+    <string name="bonus">Bonus</string>
+
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+
+    <string name="round">Round</string>
+    <string name="reset">Reset</string>
+    
+    <string name="toast_message_3_points">Someone already got 3 points</string>
+    <string name="toast_message_2_points">Someone already got 2 points</string>
+    <string name="toast_message_1_point">Someone already got 1 point</string>
+    <string name="toast_message_red_team">Red player already has points</string>
+    <string name="toast_message_blue_team">Blue player already has points</string>
+    <string name="toast_message_white_team">White player already has points</string>
+    <string name="toast_message_yellow_team">Yellow player already has points</string>
+    <string name="toast_message_game_over">This game is over, please reset scores</string>
+
+    <string name="end_message_teamA">Team A WON!</string>
+    <string name="end_message_teamB">Team B WON!</string>
+    <string name="end_message_dead_heat">DEAD-HEAT!</string>
+</resources>
